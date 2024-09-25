@@ -19,17 +19,16 @@ I’ve been programming for less than 6 months, and this chatbot project was a g
     
 How to Use the Chatbot
 
-    Clone the repository:
-
-git clone https://github.com/YourUsername/ChatBot.git
+    Clone the repository: 
+    git clone https://github.com/YourUsername/ChatBot.git
 
 Navigate to the project directory:
 
-cd ChatBot
+    cd ChatBot
 
 Make sure you have Python installed. You can check with:
 
-python --version
+    python --version
 
 Run the chatbot.py file:
 
