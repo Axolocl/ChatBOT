@@ -21,33 +21,23 @@ How to Use the Chatbot
 
     Clone the repository:
 
-    bash
-
 git clone https://github.com/YourUsername/ChatBot.git
 
 Navigate to the project directory:
-
-bash
 
 cd ChatBot
 
 Make sure you have Python installed. You can check with:
 
-bash
-
 python --version
 
 Run the chatbot.py file:
-
-bash
 
     python chatbot.py
 
     Start chatting with the bot! You can ask it questions, and if it doesn't know the answer, you can teach it. Type quit to exit the chatbot.
 
-Example Conversation
-
-vbnet
+Example Conversation:
 
 You: What is AI?
 Bot: I don't know the answer. Can you teach me?
