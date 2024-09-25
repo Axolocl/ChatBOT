@@ -20,7 +20,7 @@ I’ve been programming for less than 6 months, and this chatbot project was a g
 How to Use the Chatbot
 
     Clone the repository: 
-    git clone https://github.com/YourUsername/ChatBot.git
+    git clone https://github.com/Axolocl/ChatBot.git
 
 Navigate to the project directory:
 
