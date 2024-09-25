@@ -35,7 +35,7 @@ Run the chatbot.py file:
 
     python chatbot.py
 
-    Start chatting with the bot! You can ask it questions, and if it doesn't know the answer, you can teach it. Type quit to exit the chatbot.
+Start chatting with the bot! You can ask it questions, and if it doesn't know the answer, you can teach it. Type quit to exit the chatbot.
 
 Example Conversation:
 
